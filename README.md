@@ -1,9 +1,9 @@
-#Security camera
+# Security camera
 
 The provided code is a simple implementation of a security camera application using OpenCV (cv2) library in Python.
 Let's break down the code and understand what it does and how it accomplishes its task.
 
-##Importing necessary libraries:
+## Importing necessary libraries:
 
 ```python
 
